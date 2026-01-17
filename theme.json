@@ -70,7 +70,7 @@
     "YELLOW_300": "#88c677",
     "GREEN_600": "#637167",
     "RED_400": "#fb4934",
-    "WHITE_500": "#637167",
+    "WHITE_500": "#fafafa",
     "PLUM_1": "#88c677",
     "PLUM_10": "#88c677",
     "PLUM_11": "#fafafa",
@@ -179,7 +179,7 @@
   },
   "background": {
     "blur": 0,
-    "url": "https://imgur.com/a/f88mGXM",
+    "url": "https://imgur.com/a/me-f88mGXM",
     "alpha": 1
   },
   "plus": {
