@@ -17,8 +17,8 @@
     "INTERACTIVE_ACTIVE": ["#649b55"],
     "INTERACTIVE_MUTED": ["#454e45"],
     "BACKGROUND_PRIMARY": ["#eeeeee"],
-    "BACKGROUND_SECONDARY": ["#fafafa"],
-    "BACKGROUND_SECONDARY_ALT": ["#363c36"],
+    "BACKGROUND_SECONDARY": ["transparent"],
+    "BACKGROUND_SECONDARY_ALT": ["#transparent"],
     "BACKGROUND_TERTIARY": ["#363c36"],
     "BACKGROUND_ACCENT": ["#88c677"],
     "BACKGROUND_FLOATING": ["#eeeeee"],
@@ -41,7 +41,7 @@
     "TEXT_DANGER": ["#fb4934"],
     "KEYBOARD": ["#363c36"],
     "CHANNEL_ICON": ["#637167"],
-    "CHAT_BACKGROUND": ["#363c36"],
+    "CHAT_BACKGROUND": ["#transparent"],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#363c36"],
     "CARD_PRIMARY_BG": ["#eeeeee"],
     "CARD_SECONDARY_BG": ["#363c36"],
@@ -179,7 +179,7 @@
   },
   "background": {
     "blur": 0,
-    "url": "https://raw.githubusercontent.com/nyxsion22-alt/gruvbox-theme-revenge/refs/heads/main/assets/flowers.png",
+    "url": "https://raw.githubusercontent.com/nyxsion22-alt/gruvbox-theme-revenge/main/assets/flowers.png",
     "alpha": 0.2
   },
   "plus": {
