@@ -41,7 +41,7 @@
     "TEXT_DANGER": ["#fb4934"],
     "KEYBOARD": ["#363c36"],
     "CHANNEL_ICON": ["#637167"],
-    "CHAT_BACKGROUND": ["#transparent"],
+    "CHAT_BACKGROUND": ["#eeeeee"],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#363c36"],
     "CARD_PRIMARY_BG": ["#eeeeee"],
     "CARD_SECONDARY_BG": ["#363c36"],
