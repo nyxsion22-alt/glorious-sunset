@@ -24,7 +24,7 @@
     "BACKGROUND_FLOATING": ["#eeeeee"],
     "BACKGROUND_MOBILE_PRIMARY": ["#eeeeee"],
     "BG_BASE_TERTIARY": ["#eeeeee"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#363c36"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#CECCCC"],
     "BACKGROUND_NESTED_FLOATING": ["#455045"],
     "BACKGROUND_MESSAGE_HOVER": ["#88c677"],
     "BACKGROUND_MODIFIER_HOVER": ["#fb4934"],
@@ -44,7 +44,7 @@
     "CHAT_BACKGROUND": ["#eeeeee"],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#363c36"],
     "CARD_PRIMARY_BG": ["#eeeeee"],
-    "CARD_SECONDARY_BG": ["#363c36"],
+    "CARD_SECONDARY_BG": ["#CECCCC"],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#88c677"],
     "REDESIGN_CHAT_INPUT_BACKGROUND": ["#eeeeee"],
     "BG_BACKDROP": ["#04010173"]
@@ -179,7 +179,7 @@
   },
   "background": {
     "blur": 0,
-    "url": "https://raw.githubusercontent.com/eeriemyxi/gruvbox-theme-revenge/refs/heads/main/assets/bg-modified-glow.png",
+    "url": "https://raw.githubusercontent.com/eeriemyxi/gruvbox-theme-revenge/refs/heads/main/assets/flowers.png",
     "alpha": 1
   },
   "plus": {
