@@ -1,5 +1,5 @@
 {
-    "name": "Light Link Discord",
+    "name": "juminocore",
     "description": "A theme made from discord files!",
     "authors": [
         {
@@ -21,7 +21,7 @@
         ]
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/Light.jpg",
+        "url": "https://raw.githubusercontent.com/nyxsion22-alt/glorious-sunset/main/assets/flowers.png",
         "alpha": 0.25,
         "blur": 0.5
     },
